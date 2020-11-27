@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld_02</string>
+    <string name="app_name">HelloWorld</string>
+    <string name="text">This is the first application from Group 2: \n\u25AA Anda Āriņa \n\u25AA Annija Cunska \n\u25AA Agate Ziediņa</string>
+    <string name="developer">This app was developed by Anda Āriņa</string>
 </resources>
